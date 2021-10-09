@@ -47,20 +47,20 @@ The model leverages conditional probability on both left and right (preceeding &
 > accuracy_per_class(predictions, true_vals)
 
 Class: happy
-Accuracy: 248/251
+Accuracy: 242/251
 
 Class: not-relevant
-Accuracy: 29/51
+Accuracy: 36/51
 
 Class: angry
-Accuracy: 5/15
+Accuracy: 11/15
 
 Class: disgust
 Accuracy: 0/2
 
 Class: sad
-Accuracy: 0/8
+Accuracy: 2/8
 
 Class: surprise
-Accuracy: 0/11
+Accuracy: 7/11
 ```
